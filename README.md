@@ -8,7 +8,7 @@ My goal is to be able to work as a Freelancer for Web Development by mid 2019 so
 
 ## projects
 [Tip Calculator](https://github.com/gwenshiro/FirstTipCalculator)
-[Twitter: Sign-in Page Clone](https://github.com/gwenshiro/Twitter-Sign-In-clone)
+[Twitter Sign-in Page Clone](https://github.com/gwenshiro/Twitter-Sign-In-clone)
 
 ## challenge logs
 [100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
