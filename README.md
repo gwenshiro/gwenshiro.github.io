@@ -18,8 +18,11 @@ My goal is to be able to work as a Freelancer for Web Development by mid 2019 so
 
 ### follow my social media
 [Twitter](https://www.twitter.com/whisperingblues)
+
 [Instagram](https://www.instagram.com/gwen_jw/)
+
 [LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)
+
 [Telegram](http://t.me/gwen_jw)
 
 
