@@ -13,6 +13,7 @@ My goal is to be able to work as a Freelancer for Web Development by mid 2019 so
 
 ## challenge logs
 [100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
+
 [JavaScript30](https://github.com/gwenshiro/JavaScript30)
 
 ### follow my social media
