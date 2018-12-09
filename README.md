@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## gwenshiro
 
-You can use the [editor on GitHub](https://github.com/gwenshiro/gwenshiro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Gwen Ong, 18 year old student from Singapore! I am currently studying in a vocational institute (polytechnic) for my diploma in Cybersecurity and Digital Forensics. In June 2018, I decided to pick up Web Development as I had found a new-found passion and interest in programming. Since then, I have been coding daily.
+
+My goal is to be able to work as a Freelancer for Web Development by mid 2019 so that I would be able to gain some hands-on experience in preparation for World Skills 2021, as well as to build up a strong portfolio for my future.
 
 ```markdown
 Syntax highlighted code block
