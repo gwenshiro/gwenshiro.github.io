@@ -10,13 +10,24 @@ I also have plans to form a team that works on project basis to assist individua
 
 > The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experiences
 
+### GOALS
+[x] Start my learning journey towards becoming a Web Developer
+[x] HTML
+[x] CSS
+[ ] JavaScript
+[ ] Form a team and get our first client
+
 
 ### REPOSITORIES
 
-#### challenge logs
-[100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
 
+#### challenge logs
+[100DaysOfCode](https://github.com/gwenshiro/100-days-of-code)
+---------------------------------------------------------------------------
 [JavaScript30](https://github.com/gwenshiro/JavaScript30)
+
+
+
 
 
 #### self-initiated projects
@@ -30,7 +41,7 @@ None
 
 
 ### SOCIAL MEDIA
-#### follow along my footsteps to becoming a dev!
+#### _follow along my footsteps to becoming a dev!_
 [Github](https://www.github.com/gwenshiro)
 
 [LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)
