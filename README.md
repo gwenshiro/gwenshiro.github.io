@@ -21,23 +21,20 @@ I also have plans to form a team that works on project basis to assist individua
 ### REPOSITORIES
 
 
-#### challenge logs
-[100DaysOfCode](https://github.com/gwenshiro/100-days-of-code)
----------------------------------------------------------------------------
-[JavaScript30](https://github.com/gwenshiro/JavaScript30)
+self-initiated projects | description
+----------------------------------------------------------------------------------------------------------------------------------------
+[Tip Calculator](https://github.com/gwenshiro/FirstTipCalculator) | A simple Tip Calculator built with JavaScript
+[Twitter Sign-in Page Clone](https://github.com/gwenshiro/Twitter-Sign-In-clone) | Twitter Sign-in Page Clone built with SASS (Scss)
 
 
+challenge logs | description
+----------------------------------------------------------------------------------------------------------------------------------------
+[100DaysOfCode](https://github.com/gwenshiro/100-days-of-code) | 100DaysOfCode is a challenge for coders to code for a minimum of 1 hour per day for 100 days, as well as document their progress each and every ay through Twitter or GitHub.
+[JavaScript30](https://github.com/gwenshiro/JavaScript30) | JavaScript30 is a 30-day JavaScript challenge in which participants will build a JavaScript based project daily, with assistance from video tutorials by WesBos.
 
 
-
-#### self-initiated projects
-[Tip Calculator](https://github.com/gwenshiro/FirstTipCalculator)
-
-[Twitter Sign-in Page Clone](https://github.com/gwenshiro/Twitter-Sign-In-clone)
-
-
-#### works
-None
+works | description
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### SOCIAL MEDIA
