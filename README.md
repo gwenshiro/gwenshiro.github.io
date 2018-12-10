@@ -11,15 +11,11 @@ I also have plans to form a team that works on project basis to assist individua
 > The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experiences
 
 ### GOALS
-[x] Start my learning journey towards becoming a Web Developer
-
-[x] HTML
-
-[x] CSS
-
-[ ] JavaScript
-
-[ ] Form a team and get our first client
+- [x] Start my learning journey towards becoming a Web Developer
+- [x] HTML
+- [x] CSS
+- [ ] JavaScript
+- [ ] Form a team and get our first client
 
 
 
