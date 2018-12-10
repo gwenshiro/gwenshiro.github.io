@@ -1,7 +1,7 @@
 ## life begins when you realize that you can achieve your dreams 
 > perseverance is the secret to all triumphs
 
-### biography
+### BIOGRAPHY
 My name is Gwen Ong, 18 year old student from Singapore! I am currently studying in a vocational institute (polytechnic) for my diploma in Cybersecurity and Digital Forensics. In June 2018, I decided to pick up Web Development as I had found a discovered my strong passion and interest in programming. Since then, I have been coding daily.
 
 My goal is to be able to work as a Freelancer for Web Development by mid 2019 so that I would be able to gain some hands-on experience in preparation for World Skills 2021, as well as to build up a strong portfolio for my future. 
@@ -11,8 +11,7 @@ I also have plans to form a team that works on project basis to assist individua
 > The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experiences
 
 
-### repositories
-
+### REPOSITORIES
 
 #### challenge logs
 [100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
@@ -30,7 +29,8 @@ I also have plans to form a team that works on project basis to assist individua
 None
 
 
-### follow along my footsteps to becoming a dev!
+### SOCIAL MEDIA
+#### follow along my footsteps to becoming a dev!
 [Github](https://www.github.com/gwenshiro)
 
 [LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)
