@@ -6,15 +6,24 @@ My name is Gwen Ong, 18 year old student from Singapore! I am currently studying
 
 My goal is to be able to work as a Freelancer for Web Development by mid 2019 so that I would be able to gain some hands-on experience in preparation for World Skills 2021, as well as to build up a strong portfolio for my future.
 
-## projects
+### repositories
+
+
+#### challenge logs
+[100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
+
+[JavaScript30](https://github.com/gwenshiro/JavaScript30)
+
+
+#### self-initiated projects
 [Tip Calculator](https://github.com/gwenshiro/FirstTipCalculator)
 
 [Twitter Sign-in Page Clone](https://github.com/gwenshiro/Twitter-Sign-In-clone)
 
-## challenge logs
-[100 Days Of Code](https://github.com/gwenshiro/100-days-of-code)
 
-[JavaScript30](https://github.com/gwenshiro/JavaScript30)
+#### works
+None
+
 
 ### follow my social media
 [Twitter](https://www.twitter.com/whisperingblues)
@@ -24,6 +33,3 @@ My goal is to be able to work as a Freelancer for Web Development by mid 2019 so
 [LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)
 
 [Telegram](http://t.me/gwen_jw)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
