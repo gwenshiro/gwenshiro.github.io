@@ -12,14 +12,18 @@ I also have plans to form a team that works on project basis to assist individua
 
 ### GOALS
 [x] Start my learning journey towards becoming a Web Developer
+
 [x] HTML
+
 [x] CSS
+
 [ ] JavaScript
+
 [ ] Form a team and get our first client
 
 
-### REPOSITORIES
 
+### REPOSITORIES
 
 self-initiated projects | description
 ------------------------|--------------
@@ -35,16 +39,9 @@ challenge logs | description
 
 works | description
 ------|-------------
+None | None
 
 
 ### SOCIAL MEDIA
 #### _follow along my footsteps to becoming a dev!_
-[Github](https://www.github.com/gwenshiro)
-
-[LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)
-
-[Twitter](https://www.twitter.com/whisperingblues)
-
-[Instagram](https://www.instagram.com/gwen_jw/)
-
-[Telegram](http://t.me/gwen_jw)
+[Github](https://www.github.com/gwenshiro)  [LinkedIn](https://www.linkedin.com/in/gwen-ong-339066162/)  [Twitter](https://www.twitter.com/whisperingblues)  [Instagram](https://www.instagram.com/gwen_jw/)  [Telegram](http://t.me/gwen_jw)
