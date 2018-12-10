@@ -15,8 +15,7 @@ I also have plans to form a team that works on project basis to assist individua
 - [x] HTML
 - [x] CSS
 - [ ] JavaScript
-- [ ] Form a team and get our first client\
-
+- [ ] Form a team and get our first client
 
 
 ### REPOSITORIES
