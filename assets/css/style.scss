@@ -3,32 +3,31 @@
 
 @import "{{ site.theme }}";
 
+
 $color-primary: #3498db;
 $color-secondary: #2980b9;
 
+
 p a {
+
+    &:link,
+    &:visited {
     color: $color-primary;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid transparent; 
     animation: 1s ease-in;
 
-    &:hover {
+    }
+
+    &:hover,
+    &:active {
         color: darken($color-primary, 15%);
         border-bottom: 1px solid $color-secondary;
     }
 
-    // &:first-of-type::before {
-        
-    // }
-    // &:nth-child(2)::before {
+}
 
-    // }
-    // &:nth-child(3)::before {
-
-    // }
-    // &: nth-child(4)::before {
-
-    // }
-    // &:last-of-type::before{
-
-    // }
+blockquote {
+    font-size: 1rem;
+    padding-left: 2rem;
+    border-left: 1px solid $color-secondary;
 }
