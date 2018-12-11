@@ -6,7 +6,7 @@
 
 $color-primary: #3498db;
 $color-secondary: rgb(41, 128, 185);
-$color-secondary-opacity: rgba(41, 128, 185, .6)
+$color-secondary-opacity: rgba(41, 128, 185, .6);
 
 
 p a {
@@ -15,8 +15,7 @@ p a {
     &:visited {
     color: $color-primary;
     border-bottom: 1px solid transparent; 
-    animation: 1s ease-in;
-
+    transition: border-bottom .5s, color .5s;
     }
 
     &:hover,
