@@ -9,7 +9,7 @@ $color-secondary: #2980b9;
 p a {
     color: $color-primary;
     border-bottom: 1px solid transparent;
-    animation: border-bottom .2s;
+    animation: border-bottom .5s, color .5s;
 
     &:hover {
         color: darken($color-primary, 15%);
