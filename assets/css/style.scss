@@ -8,24 +8,13 @@ $color-primary: #3498db;
 $color-secondary: rgb(41, 128, 185);
 $color-secondary-opacity: rgba(41, 128, 185, .6);
 
-
-@keyframes leftIn {
-    0% {
-        width: 0%;
-    }
-
-    100% {
-        width: 100%;
-    }
-}
-
 p a {
 
     &:link,
     &:visited {
     color: $color-primary;
     border-bottom: 1px solid transparent; 
-    transition: border-bottom .5s ease-in-out, color .5s;
+    transition: border-bottom .5s ease-in-out, color .5s ease-in-out;
     }
 
     &:hover,
