@@ -14,12 +14,12 @@ p a {
     &:visited {
     color: $color-primary;
     border-bottom: 1px solid transparent; 
-    transition: border-bottom .2s ease-in-out;
+    transition: border-bottom .2s ease-in-out, color .5s ease-in-out;
     }
 
     &:hover,
     &:active {
-        color: darken($color-primary, 15%);
+        color: $color-secondary;
         border-bottom: 1px solid $color-secondary;
     }
 
